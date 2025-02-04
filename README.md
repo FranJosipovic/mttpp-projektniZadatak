@@ -50,6 +50,7 @@ Stvorimo novu HTTP request komponentu i definiramo port, protokol, računalo, pu
 Potrebno:
 
  - Web api aplikacija
+	 - verzija: .NET core 8.0	
 	 - klonirati repozitorij i buildati .net aplikaciju lokalno
 	 - aplikacija se može pokrenuti na više načina, sve je definirano u Properties/launchSettings.json datoteci
 	 - ovisno prema načinu pokretanja web api aplikacije potrebno je podesiti port u jmeteru(ja sam pokretao aplikaciju preko IIS expresa te sam stoga definirao port 44313)
